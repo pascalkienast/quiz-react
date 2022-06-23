@@ -7,7 +7,7 @@ export const Questions = [
         optionD: "Army of Darkness",
         answer: "a",
         hint: "Friend. If you don't know the most popular hacker group, what do you know?",
-        img: "https://c1.staticflickr.com/9/8270/29962849562_5db94879c5_b.jpg"
+        img: ""
     },
     {
         question: "Where was Whiterose trying to get her project shipped to?",
@@ -17,7 +17,7 @@ export const Questions = [
         optionD: "New Zealand",
         answer: "a",
         hint: "+243. I know that's enough.",
-        img: "https://s24195.pcdn.co/wp-content/uploads/2017/12/Cover-photo-Mr-Robot.jpg"
+        img: "://s24195.pcdn.co/wp-content/uploads/2017/12/Cover-photo-Mr-Robot.jpg"
     },
     {
         question: "Why was the Mr Robot personality created?",
@@ -198,7 +198,7 @@ export const Questions = [
         optionD: "Time (Clock of the Heart) - Creature Club",
         answer: "d",
         hint: "this is a Difficult one. but you shoulD think a little more. Definitely.",
-        img: "https://preview.redd.it/wjmbgfd9cmu31.png?auto=webp&s=9bf96f0e6d62eb5a55b123076011fbb4a77b65c7"
+        img: ""
     },
 
 ]
